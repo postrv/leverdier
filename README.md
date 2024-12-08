@@ -230,8 +230,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For questions, suggestions, or collaborations, please reach out to [your.email@example.com](mailto:your.email@example.com).
+For questions, suggestions, or collaborations, please reach out.
 
 ---
 
-**Note:** The Leverdier Framework is a conceptual extension of harmonic analysis, inspired by the ideas discussed in prior conversations. This repository aims to provide a foundational implementation to facilitate further research and development in adaptive harmonic decomposition techniques.
+**Note:** The Leverdier Framework is a conceptual extension of harmonic analysis, inspired by the ideas discussed in LLM conversations. The code and concepts were written up by AI.
+This repository aims to provide a foundational implementation to facilitate further research and development in adaptive harmonic decomposition techniques.
